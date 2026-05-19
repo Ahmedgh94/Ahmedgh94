@@ -1,4 +1,4 @@
-# Ahmed Gh94
+#👋 Hey, I'm Ahmed Al Ghanem 
 
 <img src="https://github.com/Ahmedgh94/Ahmedgh94/blob/main/pf.png" width="180" alt="Ahmed profile photo" style="border-radius: 12px; margin-bottom: 20px;" />
 
