@@ -6,7 +6,7 @@
 
 I build reliable, maintainable, and user-focused digital products with a strong focus on clarity, performance, and practical delivery. My work spans frontend interfaces, backend systems, and modern deployment workflows.
 
-I am currently strengthening my expertise in **Laravel, Docker, and CI/CD** while continuing to ship real projects and improve engineering quality.
+I am currently strengthening my expertise in **Laravel, React&Ts, and CI/CD** while continuing to ship real projects and improve engineering quality.
 
 ---
 
