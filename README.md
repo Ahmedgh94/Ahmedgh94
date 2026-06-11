@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Ahmedgh94/Ahmedgh94/blob/main/pf.png" width="180" alt="Ahmed profile photo" style="border-radius: 12px; margin-bottom: 20px;" />
 
-**Full-Stack Developer | Web & Mobile Developer | Backend Developer**
+**Full-Stack Developer | Web Developer | Backend Developer**
 
 I build reliable, maintainable, and user-focused digital products with a strong focus on clarity, performance, and practical delivery. My work spans frontend interfaces, backend systems, mobile applications, and modern deployment practices.
 
