@@ -55,7 +55,7 @@ I build practical web and mobile applications with a focus on clarity, usability
 
 **DevOps and Delivery**
 - Git / GitHub
-- Docker
+- Docker / basis
 - CI/CD fundamentals
 - Vercel deployment
 
